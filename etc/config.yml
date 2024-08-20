@@ -8,6 +8,10 @@ mysql:
   pass: root
   database: user
   enable_log: true
+redis:
+  addr: 127.0.0.1:6379
+  db: 0
+  pass: 
 log:
   output: file
   file: ../log/demo.log
