@@ -3,7 +3,7 @@ module going-demo
 go 1.22.2
 
 require (
-	github.com/PirateDreamer/going v0.0.7-0.20240819032241-c623b9799326
+	github.com/PirateDreamer/going v0.0.7
 	github.com/gin-gonic/gin v1.10.0
 	gorm.io/gorm v1.23.8
 )
